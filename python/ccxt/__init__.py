@@ -171,6 +171,7 @@ from ccxt.phemex import phemex                                        # noqa: F4
 from ccxt.poloniex import poloniex                                    # noqa: F401
 from ccxt.poloniexfutures import poloniexfutures                      # noqa: F401
 from ccxt.probit import probit                                        # noqa: F401
+from ccxt.quadency import quadency                                    # noqa: F401
 from ccxt.tidex import tidex                                          # noqa: F401
 from ccxt.timex import timex                                          # noqa: F401
 from ccxt.tokocrypto import tokocrypto                                # noqa: F401
@@ -278,6 +279,7 @@ exchanges = [
     'poloniex',
     'poloniexfutures',
     'probit',
+    'quadency',
     'tidex',
     'timex',
     'tokocrypto',
